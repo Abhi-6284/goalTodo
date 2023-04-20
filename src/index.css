@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  background-image: url('https://img.freepik.com/free-photo/top-view-goals-written-note-with-pills-injections-pencils-blue-background-pandemic-hospital-lab-virus-pill-health-covid-science-color_179666-19782.jpg?w=740&t=st=1681990349~exp=1681990949~hmac=cc5e78c83343e6771e95bfbfc14a54430ca6d43f6a49d9c609f1eb66ed780bc2');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
